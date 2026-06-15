@@ -1,68 +1,60 @@
-# 👋 Merhaba, Ben Oğuz! 
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0gxd14g&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="0gxd14g" />
-</p>
+# Oğuz ALBAŞ
 
-### 🛡️ Güvenlik Araştırmacısı | Gömülü Sistemler | Backend Geliştirici
+**Threat Hunting · Detection Engineering · Cyber Threat Intelligence · OT/ICS Security**
 
-Siber güvenlik dünyasında zafiyet avcılığı, otomasyon araçları geliştirme ve veri analizi üzerine odaklanıyorum. Karmaşık sistemleri anlamayı ve onları daha güvenli hale getirmeyi seviyorum.
+Istanbul, Türkiye · [GitHub](https://github.com/00gxd14g) · [X](https://twitter.com/0gxd14g)
 
----
+</div>
 
-### 🚀 Hakkımda
+## About
 
-- 🔭 **Şu an ne üzerinde çalışıyorum:** Web güvenliği ve IoT cihaz zafiyet araştırmaları.
-- ⚡ **Odak Noktam:** Python tabanlı güvenlik araçları ve otomasyon.
-- ✍️ **Blog Yazılarım:** [Medium](https://medium.com/@oguzalbastr02) üzerinden deneyimlerimi paylaşıyorum.
-- 📫 **Bana Ulaşın:** Aşağıdaki sosyal medya linklerinden veya GitHub üzerinden ulaşabilirsiniz.
+I am a security engineer focused on building practical defensive security systems, detection content, and automation. My work combines blue-team operations, controlled adversary emulation, SIEM engineering, cyber threat intelligence, and secure software development.
 
----
+I am particularly interested in turning security telemetry and threat intelligence into repeatable detection, investigation, and response workflows.
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+## Focus Areas
 
-#### 💻 Diller & Frameworkler
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</p>
+- **Threat hunting and detection engineering:** MITRE ATT&CK, Sigma, Sysmon, Windows telemetry, detection validation
+- **SIEM and security automation:** Trellix/McAfee ESM, IBM QRadar, TheHive, rule lifecycle and alarm workflows
+- **Cyber threat intelligence:** MISP, STIX/TAXII, IOC enrichment and intelligence pipelines
+- **OT/ICS security:** Modbus-aware discovery, industrial asset visibility and defensive validation
+- **Security product engineering:** Python services, TypeScript interfaces, PowerShell and Shell automation
+- **Adversary emulation:** MITRE CALDERA and Atomic Red Team in authorized, controlled environments
 
-#### 📊 Veri & Altyapı
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-</p>
+## Selected Public Projects
 
-#### 🛠️ Diğer Araçlar
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-</p>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [ics_finder](https://github.com/00gxd14g/ics_finder) | Asynchronous Modbus/ICS discovery with MISP warning-list exclusions, protocol validation and structured output. | Python |
+| [Windows-ADV-MITRE](https://github.com/00gxd14g/Windows-ADV-MITRE) | Windows security auditing, event generation and MITRE ATT&CK mapping for detection validation. | PowerShell |
+| [cti-misp-stix-pipeline](https://github.com/00gxd14g/cti-misp-stix-pipeline) | MISP-to-STIX/TAXII pipeline with STIX 1.x/2.1 support and IOC relationship handling. | Python |
+| [Trellix-SIEM-RACC](https://github.com/00gxd14g/Trellix-SIEM-RACC) | SIEM rule and alarm analysis tooling designed to reduce manual XML workflows and support multi-tenant operations. | Python |
+| [misp-extractor](https://github.com/00gxd14g/misp-extractor) | MISP attribute extraction and export utility for IP addresses, URLs and hashes. | Python |
+| [QRadar_Log_Forwarding](https://github.com/00gxd14g/QRadar_Log_Forwarding) | Linux log-forwarding automation and validation for IBM QRadar environments. | Shell |
+| [MacRecovery](https://github.com/00gxd14g/MacRecovery) | SwiftUI backup utility built on rsync with live logs and cancellation support. | Swift |
 
----
+## Open Source Contributions
 
-### 📊 GitHub İstatistikleri
+| Repository | Contribution |
+| --- | --- |
+| [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas) | [Merged WSL2 project discovery and Explorer integration](https://github.com/kodzamani/DevAtlas/pull/2) |
+| [MISP/misp-website](https://github.com/MISP/misp-website) | [Added `misp-extractor` to the MISP tools directory](https://github.com/MISP/misp-website/pull/75) |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | Contributions covering [DNS and hostname management](https://github.com/coollabsio/coolify/pull/8936) and [IPv6 gateway handling](https://github.com/coollabsio/coolify/pull/8937) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0gxd14g&show_icons=true&theme=tokyonight" alt="0gxd14g GitHub Stats" />
-</p>
+## Technologies
 
----
+**Security and platforms**
 
-### 🤝 Bağlantı Kurun
+`MITRE ATT&CK` · `Sigma` · `Sysmon` · `MISP` · `STIX/TAXII` · `QRadar` · `Trellix ESM` · `TheHive` · `CALDERA`
 
-<p align="left">
-<a href="https://twitter.com/0gxd14g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0gxd14g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0gxd14g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0gxd14g" height="30" width="40" /></a>
-<a href="https://medium.com/@oguzalbastr02" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguzalbastr02" height="30" width="40" /></a>
-</p>
+**Engineering**
+
+`Python` · `TypeScript` · `PowerShell` · `Shell` · `Swift` · `SQL` · `Docker` · `GitHub Actions`
+
+## Collaboration
+
+I am interested in open-source work involving detection engineering, threat intelligence, SIEM automation, defensive security tooling, and OT/ICS visibility.
+
+> Security research and testing referenced here is intended for authorized and controlled environments.
