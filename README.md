@@ -4,7 +4,7 @@
 
 **Threat Hunting · Detection Engineering · Cyber Threat Intelligence · OT/ICS Security**
 
-Istanbul, Türkiye · [GitHub](https://github.com/00gxd14g) · [X](https://twitter.com/0gxd14g)
+Ankara, Türkiye · [GitHub](https://github.com/00gxd14g) · [X](https://twitter.com/0gxd14g)
 
 </div>
 
