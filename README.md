@@ -1,24 +1,26 @@
 ```text
-          _.--._
-        .'  o   `.
-   <====         ;
-        `-.      \
-           \  \\\ `-._
-            \  \\\\\  `-._
-             `-.\\\\\\\____>
-                ||
-               _||_
+                             _.--._
+                           .'  o   `.
+ (( o ))  (  (  (     <====         ;
+    |     (  (  (          `-.      \
+   /_\                        \  \\\ `-._
+                               \  \\\\\  `-._
+  _/\_ _/\/\_ _/\_              `-.\\\\\\\____>
+ ~    ~      ~    ~~                ||
+                                  _||_
+
+   O L D   C R O W   //   E L E C T R O N I C   W A R F A R E
 ```
 
 # Oğuz ALBAŞ
 
-**Security engineer · Threat hunting & detection engineering · Cyber threat intelligence**
+**Security engineer · Electronic warfare & RF/SDR signal analysis · Threat hunting & detection engineering · CTI**
 
 Ankara, Türkiye · [X](https://twitter.com/0gxd14g)
 
 I build defensive security tooling: detection content, SIEM automation and threat-intelligence pipelines that turn telemetry into repeatable detection and response.
 
-**Focus:** MITRE ATT&CK · Sigma · Sysmon · SIEM (QRadar, Trellix ESM) · MISP · STIX/TAXII · OT/ICS visibility
+**Focus:** SDR & RF signal analysis · SIGINT · MITRE ATT&CK · Sigma · Sysmon · SIEM (QRadar, Trellix ESM) · MISP · STIX/TAXII · OT/ICS visibility
 
 ## Projects
 
