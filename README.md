@@ -1,3 +1,15 @@
+```text
+          _.--._
+        .'  o   `.
+   <====         ;
+        `-.      \
+           \  \\\ `-._
+            \  \\\\\  `-._
+             `-.\\\\\\\____>
+                ||
+               _||_
+```
+
 # Oğuz ALBAŞ
 
 **Security engineer · Threat hunting & detection engineering · Cyber threat intelligence**
